@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_Repetition", "M3_Repetition\M3_Repetition.csproj", "{272211AA-18D7-4C25-8BEB-4463A4C20DAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M3_Repetition", "M3_Repetition\M3_Repetition.csproj", "{272211AA-18D7-4C25-8BEB-4463A4C20DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "Properties\Properties.csproj", "{ECFEBCF1-3920-42BD-AA09-BAA318D4BA44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{272211AA-18D7-4C25-8BEB-4463A4C20DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{272211AA-18D7-4C25-8BEB-4463A4C20DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{272211AA-18D7-4C25-8BEB-4463A4C20DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFEBCF1-3920-42BD-AA09-BAA318D4BA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFEBCF1-3920-42BD-AA09-BAA318D4BA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFEBCF1-3920-42BD-AA09-BAA318D4BA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFEBCF1-3920-42BD-AA09-BAA318D4BA44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
