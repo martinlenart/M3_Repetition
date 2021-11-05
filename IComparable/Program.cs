@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClassStruct
+namespace IComparable
 {
     public struct StructA : IComparable<StructA>
     {

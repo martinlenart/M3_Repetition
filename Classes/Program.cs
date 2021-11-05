@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Moment2
+namespace Classes
 {
     public enum DogBreeds { GoldenRetriever, Schitzu, Labrador, Rottweiler}
     class Dog

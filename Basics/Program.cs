@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace M3_Repetition
+namespace Basics
 {
     class Program
     {

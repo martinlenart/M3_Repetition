@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Properties
+namespace Generics
 {
-    public class AClass<T> where T:class
+    public class AClass<T> //where T:struct
     {
         public T field1;
         public readonly T field2 = default;
