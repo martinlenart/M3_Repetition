@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IComparable", "IComparable\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{EE3CB625-57A2-48AF-B6F1-538DEC88B2EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamRepetition", "ExamRepetition\ExamRepetition.csproj", "{8D39A38A-236D-45ED-8DC0-477791948DDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EE3CB625-57A2-48AF-B6F1-538DEC88B2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE3CB625-57A2-48AF-B6F1-538DEC88B2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE3CB625-57A2-48AF-B6F1-538DEC88B2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D39A38A-236D-45ED-8DC0-477791948DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D39A38A-236D-45ED-8DC0-477791948DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D39A38A-236D-45ED-8DC0-477791948DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D39A38A-236D-45ED-8DC0-477791948DDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
